@@ -1,0 +1,3 @@
+Estamos aprendiendo a crear un nuevo repositorio
+
+empezamos un con git add "archiv.txt"

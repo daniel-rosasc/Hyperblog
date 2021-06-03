@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color:#059010;
+    color:#021607;
     padding: 0;
 }
 #container{
@@ -10,4 +10,20 @@ body{
     padding: 1em;
     border: 1px solid red;
      margin: 0 auto;
+}
+#cabecera{
+        background: rgb(35, 182, 231);
+    color: rgb(245, 238, 238);
+    font-weight: bold;
+    box-shadow: 10px 5px 30px 13px rgba(10, 0, 0, 0.40);
+    margin: 0;
+    padding: 0.5em;
+}
+
+#container h1{
+    font-size: 25px;
+}
+#cabecera #tagline{
+    color: rgb(203, 227, 236);
+    font-size: 0.8em;
 }
